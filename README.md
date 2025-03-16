@@ -2,10 +2,6 @@
 MAPLE : Multilingual Annotated Page Layout Annotation 
 
 
-# Multilingual Table Detection (MTD-360)
-'data' folder has 360 document images
-'data/annotations.json' contains bboxes in COCO format
-
 # Dataset Details
 
 |     Type    | Language  | Number of pages |
