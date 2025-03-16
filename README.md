@@ -24,7 +24,8 @@ MAPLE : Multilingual Annotated Page Layout Annotation
 |  Bilingual  |  Persian  |        40       |
 |             |   Greek   |        25       |
 |             |   German  |        10       |
-|             |   Hindi   |        70       |
+|             |   Hindi   |        10       |
+|             |   Punjabi |        20       |
 |    TOTAL    |           |       360       |
 
 
